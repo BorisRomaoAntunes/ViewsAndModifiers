@@ -19,6 +19,7 @@
 		A1681E1E2A00355000ED5F8F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A1681E202A00355100ED5F8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1681E232A00355100ED5F8F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A1681E2A2A00357800ED5F8F /* ViewsAndModifiers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = ViewsAndModifiers.playground; path = "../../Playgroud - meu paquinho/ViewsAndModifiers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 		A1681E1B2A00355000ED5F8F /* ViewsAndModifiers */ = {
 			isa = PBXGroup;
 			children = (
+				A1681E2A2A00357800ED5F8F /* ViewsAndModifiers.playground */,
 				A1681E1C2A00355000ED5F8F /* ViewsAndModifiersApp.swift */,
 				A1681E1E2A00355000ED5F8F /* ContentView.swift */,
 				A1681E202A00355100ED5F8F /* Assets.xcassets */,
